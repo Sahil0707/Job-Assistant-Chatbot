@@ -1,1 +1,1 @@
-# Job-Assistant-Chatbot
+# Job-Assistant
